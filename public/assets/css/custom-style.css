@@ -41,7 +41,7 @@
 
         @font-face {
     font-family: 'LibreCaslonCondensed';
-    src: url('assets/fonts/LibreCaslonCondensed.ttf'));
+    src: url('assets/fonts/LibreCaslonCondensed.ttf');
 }
 
 .font-custom{
